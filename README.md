@@ -27,3 +27,6 @@ Let's GO
 6. Seek help and guidance from colleagues, mentors, or online communities when you run into difficulties. Don't be afraid to ask questions or share your knowledge withothers.     
 7. Practice good time management by setting priorities and delegating tasks appropriately. Avoid multitasking, instead focusing on one task at a time to ensure quality work and avoid distractions.      
 8. Maintain a healthy work-life balance by taking breaks, exercising, eating well, getting enough sleep,and spending time with friends and family. These habits will improveyour mental clarity and overall well being, leading to better work performance.
+
+# 2023-11-21
+- "Keep it simple, stupid!"
