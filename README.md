@@ -41,3 +41,10 @@ Let's GO
 5. Keep up with the latest programming trends and technologies. Learning new programming languages, frameworks, or tools can helpyou stay ahead of the curve and adapt to new challenges more quickly.    
 6. Practice good coding habits, like writing clean, concise, modular code, using appropriate data structures, following coding standards,etc.These habits will not only makeyour code more readable and maintainabled but also help reduce the chances of making errors.     
 7. Don't be afraid to ask for help or to learn from others. There is always someone more experienced than you who can providevaluable insights and guidance.By reaching out to the community and sharing your knowledge,you will grow both personally and professionally.
+
+# 2023-11-23
+- Today's programming wisdom is to be a lifelong learner, always open to new ideas and technologies. This means staying up-to-date with the latest programming languages, frameworks, and tools. It also means understanding the importance of coding ethics and being responsible for the software you create.
+
+To be successful in the world of programming, it' s essential to have a solid foundation in core concepts such as data structures, algorithms, software engineering, version control, testing, debugging, performance optimization, security, etc. These concepts will help you build robust and efficient software systems. 
+ 学习新技能，如人工智能、机器学习和数据科学，可以帮助你扩大职业机会并提高你的市场价值。同时，要关注软技能的发展，例如沟通、团队协作和解决问题的能力，这些技能对于编程人员的成功至关重要。
+ 最后，保持好奇心和探索精神，勇于尝试新事物，这将帮助你在编程领域取得更大的成功。
