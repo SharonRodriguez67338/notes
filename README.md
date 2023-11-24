@@ -48,3 +48,10 @@ Let's GO
 To be successful in the world of programming, it' s essential to have a solid foundation in core concepts such as data structures, algorithms, software engineering, version control, testing, debugging, performance optimization, security, etc. These concepts will help you build robust and efficient software systems. 
  学习新技能，如人工智能、机器学习和数据科学，可以帮助你扩大职业机会并提高你的市场价值。同时，要关注软技能的发展，例如沟通、团队协作和解决问题的能力，这些技能对于编程人员的成功至关重要。
  最后，保持好奇心和探索精神，勇于尝试新事物，这将帮助你在编程领域取得更大的成功。
+
+# 2023-11-24
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help with this:
+
+1. Prioritize tasks: When you are working on a project, it is important to determine which tasks are most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the most critical aspects of the project.
+2. Plan ahead: By planning ahead for your projects, You can avoid last-minute panic and ensure That you have enough time to complete all of your assignments. Create a schedule for each task and stick to it, so that You always know what you need to do next. 
+3. Stay organized: Keeping your workspace and code organized is crucial for efficiency and productivity. Use version control systems like Git to track your code changes, organize your files and folders, And use code editors and IDEs that support quick navigation and organization.
