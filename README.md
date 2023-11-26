@@ -58,3 +58,6 @@ To be successful in the world of programming, it' s essential to have a solid fo
 
 # 2023-11-25
 - "Keep it simple, stupid!"
+
+# 2023-11-26
+- "Keep it simple, stupid!"
