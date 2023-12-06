@@ -100,3 +100,6 @@ Optimizing code too early in the development process can lead to unnecessary com
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By prioritizing tasks based on their importance and deadlines, you can ensure that you are focusing on the right things and making progress towards your goals.
 
 Planning ahead is essential to avoid last-minute panic and stress. Break down projects into smaller, manageable tasks and allocate time for each one. Using a planning tool, such as Trello or Asana, can help keep you organized and on track. Remember to update your plan as tasks are completed or changed, to ensure you remain flexible and adaptable.
+
+# 2023-12-06
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. It means that trying to optimize code too early in the development process can lead to unnecessary complexity, bugs, and wasted time. It's better to write clear, simple code first and optimize only when necessary, based on profiling and measurement.
