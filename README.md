@@ -163,3 +163,6 @@ Remember to stay flexible and adaptable, as you may encounter unforeseen challen
 
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time for each step. Planning ahead will ensure you have a clear roadmap and avoid getting lost in the code. 
  - 来自NLP
+
+# 2023-12-22
+- "Keep it simple, stupid!"
