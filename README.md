@@ -199,3 +199,6 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 1. Prioritize tasks: When you're working on a project, it'ss important to know which tasks are most critical to complete first. By prioritizing your tasks based on their importance and urgency, you can ensure that you make progress on the right things.
 2. Plan ahead: Planning ahead is crucial for success in programming. Think about what you need to accomplish in the next few weeks or months, then break those goals down into smaller tasks that can be completed more easily.This will keep you focused and on track to achieve your goals. 
 3. Stay organized: Keeping your code, project files, notes, etc. organized is essential for finding information quickly and avoiding confusion. Use version control systems like Git to track your changes and collaborate with others, use project management tools like Trello or Asana to keep track of tasks and milestones,and organize your files and code in a clear and logical manner.
+
+# 2023-12-30
+- "Keep it simple, stupid!"
