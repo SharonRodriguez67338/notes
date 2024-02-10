@@ -438,3 +438,9 @@ In fewer than 200 words, this quote by computer scientist Donald Knuth reminds p
 
 # 2024-02-09
 - "Keep it simple, stupid!"
+
+# 2024-02-10
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented pace, it is essential to stay up-to-date with the latest developments and techniques in the field. This means constantly reading blogs, articles, and research papers, attending conferences, workshops, online courses, etc. to gain a deeper understanding of the topics that interest you.
+
+In addition to keeping up with technological advancements, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Teamwork is crucial in any project, but especially in software development, where collaboration is the key to success. 
+ -来自NLP
