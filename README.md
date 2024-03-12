@@ -577,3 +577,15 @@ This quote encapsulates the essence of good software development practices where
 
 # 2024-03-11
 - "Keep it simple, stupid!"
+
+# 2024-03-12
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function,and class names that accurately represent their purpose and functionality.
+2. Organize your code into logical, modular blocks that follow the Single Responsibility Principle (SRP).This means each block should perform one and only one task. 
+3. Follow the DRY (Don't Repeat Yourself) principle by avoiding duplicating code and reusing existing code wherever possible. You can achieve DR Y by using functions, methods, classes, modules, or libraries.  
+4. Write concise and expressive comments that explain the purpose, logic, assumptions, constraints, etc. of the code. Comments should be written in plain language and should not be overly verbose. They should also be updated whenever the underlying code changes.   
+5. Avoid using global variables and instead pass data and parameters as necessary. Global variables can make code hard to understand and modify.    
+6. Always use version control systems (such as Git) to track and manage code modifications. It helps to keep a clean and organized codebase and makes it easier to collaborate with others.     
+7. Perform code reviews regularly to identify and fix potential issues, improve code quality,follow best practice, learn from each other, reduce technical debt, increase team morale,etc.      
+8. Continuously learn and stay up- to-date with new programming languages, frameworks, libraries, tools, best-practices, design patterns, algorithms, data structures, security, performance optimization, software architecture,software engineering, project management, team collaboration, soft skills, business acumen, leadership, communication, time management.
