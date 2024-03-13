@@ -589,3 +589,9 @@ This quote encapsulates the essence of good software development practices where
 6. Always use version control systems (such as Git) to track and manage code modifications. It helps to keep a clean and organized codebase and makes it easier to collaborate with others.     
 7. Perform code reviews regularly to identify and fix potential issues, improve code quality,follow best practice, learn from each other, reduce technical debt, increase team morale,etc.      
 8. Continuously learn and stay up- to-date with new programming languages, frameworks, libraries, tools, best-practices, design patterns, algorithms, data structures, security, performance optimization, software architecture,software engineering, project management, team collaboration, soft skills, business acumen, leadership, communication, time management.
+
+# 2024-03-13
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, always plan your day or week ahead of time. Write down your goals for the day and break them down into smaller tasks. Then, allocate time for each task during your working hours. Planning ahead will prevent you from getting overwhelmed by tasks and help to keep you focused. 
+ - 来自NLP
