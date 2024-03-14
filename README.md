@@ -595,3 +595,12 @@ This quote encapsulates the essence of good software development practices where
 
 Second, always plan your day or week ahead of time. Write down your goals for the day and break them down into smaller tasks. Then, allocate time for each task during your working hours. Planning ahead will prevent you from getting overwhelmed by tasks and help to keep you focused. 
  - 来自NLP
+
+# 2024-03-14
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools to remain competitive in the job market. Here are some tips to help you grow as a programmer:
+
+1. Learn new programming Languages: It' stime to expand your skill set by learning new languages, such as Python, JavaScript, or Ruby. This will not only make you a more well-rounded developer but also give you the ability to work on various projects.
+2. Stay up to date with technology: Keep an eye on thelatest developments in your field, whether it be new frameworks, libraries, tools,or programming techniques. By staying informed, you can make informed decisionsabout which technologies to incorporate into your work. 
+3. Practice continuous learning: Set aside time each week to learn new skills or brush up on existing ones. You can do this by reading blogs, watching tutorials, attending workshops, and even participating in online coding challenges.This will help keep your skills sharp and makeyou a better programmer.  
+4. Build a portfolio: Create a website or portfolio showcasing yourwork and the technologies you're familiar with. Not only will this help demonstrate yourskills to potential employers, but it will also serve asa great resource for keeping track of your progress and achievements.   
+5. Network and attend events: Join online developer communities, attend meetups,and participate in hackathons. These are great ways to meet other developers, learnabout new projects, share your knowledge, gain experience, build your network,  and potentially find new job opportunities.
